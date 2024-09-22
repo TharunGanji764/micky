@@ -84,7 +84,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Harshavardhan Kasham</Logo>
+        <Logo>Thriguna Ganji</Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
@@ -104,9 +104,7 @@ const Footer = () => {
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>
-          &copy; 2024 Harshavardhan Kasham. All rights reserved.
-        </Copyright>
+        <Copyright>&copy; 2024 Thriguna Ganji. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

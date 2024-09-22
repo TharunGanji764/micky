@@ -76,7 +76,11 @@ const Button = styled.a`
 const ProjectCard = ({ project }) => {
   return (
     <Card>
-      <Image src={project.image} />
+      {project.image.length === 2 ? (
+        <Image src={project.image[0]} alt="Project" />
+      ) : (
+        <Image src={project.image} alt="prj-img" />
+      )}
       <Tags></Tags>
       <Details>
         <Title>{project.title}</Title>

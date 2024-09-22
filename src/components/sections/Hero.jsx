@@ -204,8 +204,8 @@ const Hero = () => {
               <motion.div {...headContentAnimation}>
                 <Tilt>
                   <Img
-                    src="https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727035783/45_kzwlgx.jpg"
-                    alt="Harshavardhan kasham"
+                    src="https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727039945/22_mk4bse.jpg"
+                    alt="Thriguna Ganji"
                   />
                 </Tilt>
               </motion.div>

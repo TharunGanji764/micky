@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Harshavardhan Kasham",
+  name: "Thriguna Ganji",
   roles: ["3D MODELLING PORTFOLIO"],
   description:
     "Explore a collection of detailed 3D models that push the boundaries of design, creativity, and technical precision.With expertise in architectural visualizations, productdesign, and character modeling, this portfolio showcases apassion for transforming concepts into immersive digital environments.",
@@ -29,102 +29,95 @@ export const skills = [
 
 export const projects = [
   {
-    id: 11,
-    title: "Barrell",
-    description:
-      "This 3D model, created in Blender, features a classic wooden barrel with metal bands. The model demonstrates clean, stylized geometry with smooth contours and crisp edges. It includes basic shading that highlights the structural elements, providing depth and realism to the object. The minimalistic environment ensures focus on the barrel's details, making it a perfect asset for game development or digital environments.",
-    image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727026678/barrel_porcu9.png",
-    category: "Objects",
-  },
-  {
-    id: 9,
-    title: "Character-1",
-    description:
-      "This 3D character model, created in Blender, features a stylized, minimalist design with smooth, flowing shapes and a soft green palette. The character's prominent horns and large, expressive eyes give it a playful, yet mysterious appearance. The lighting highlights its smooth surface, while the simplistic background ensures the focus remains on the character. This model is ideal for use in animated shorts or games, showcasing proficiency in character design and rendering in Blender.",
-    image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727026886/CHARACTER1_b3fbhb.png ",
-    category: "Characters",
-  },
-  {
-    id: 0,
-    title: "Character-2",
-    description:
-      "This adorable, furry creature was brought to life in Blender using a combination of modeling, sculpting, and texturing techniques. The focus was on creating a friendly, expressive character with a playful personality. The soft, rounded forms and vibrant colors contribute to its overall charm. This model could be used in various animation or game projects, adding a touch of whimsy to any scene.",
-    image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727026935/character2_hexxcc.png",
-    category: "Characters",
-  },
-  {
     id: 1,
-    title: "Glass Of Water",
+    title: "SpaceShip",
     description:
-      "This refreshing glass of a blue beverage was created in Blender using a combination of modeling, texturing, and fluid simulation techniques. The focus was on capturing the realistic appearance of ice cubes, bubbles, and the liquid itself. The vibrant blue color and the straw add a playful touch to the scene. This model could be used in various projects, from food advertising to game environments, to create a visually appealing and immersive experience.",
+      "This low-poly spaceship model features a futuristic design with clean lines and a simple color palette. The ship's geometric shape and detailed engine pods create a sense of speed and propulsion. The scene's rocky terrain adds depth and context to the model. This project demonstrates proficiency in Blender's modeling, texturing, and lighting tools, resulting in a visually appealing and stylized representation of a futuristic spacecraft.",
     image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727026980/glass_mrazjd.png",
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034715/ss0001_dci63d.png",
     category: "Objects",
   },
   {
     id: 2,
-    title: "Mushroom In Bottle",
+    title: "Watch",
     description:
-      "This whimsical, miniature scene was crafted in Blender using a combination of modeling, texturing, and lighting techniques. The focus was on creating a magical, otherworldly atmosphere within the confines of a glass bottle. The vibrant colors and intricate details of the mushrooms and flowers add to the scene's charm. This model could be used in various projects, from animated shorts to game environments, to evoke a sense of wonder and enchantment.",
-    image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727027037/mushroom_in_bottle_ifl1ab.png ",
-    category: "Objects",
+      "This sleek wristwatch design features a minimalistic face with a glowing purple dial and white hands. The watch's case is a polished silver metal with a unique strap design. The scene is lit with a single point light, creating a dramatic effect. This project showcases proficiency in Blender's modeling, texturing, and lighting tools, resulting in a visually appealing and modern watch design.",
+    image: [
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034041/watch_ko5vsy.png",
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034021/watch.1_xwgcur.png",
+    ],
+    category: "Products",
   },
   {
     id: 3,
-    title: "Living Room",
+    title: "Clock",
     description:
-      "This cozy, isometric living room was created in Blender using a minimalist approach. The focus was on creating a relaxing and inviting atmosphere through the use of soft colors and comfortable furniture. The TV playing a movie adds a touch of warmth and entertainment to the scene. This model could be used in various projects, from architectural visualizations to game environments, to convey a sense of homeliness and tranquility.",
+      "This playful alarm clock model was created in Blender, showcasing a cartoonish and vibrant design. The bright colors and rounded edges contribute to a cheerful and inviting aesthetic. The model's simple geometry and clean lines make it visually appealing and easy to understand. The use of a single point light creates a dramatic effect, highlighting the clock's form and features. This project demonstrates proficiency in Blender's modeling, texturing, and lighting tools, resulting in a fun and engaging piece.",
     image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727027095/living_room_dxxyhr.png",
-    category: "Interiors",
-  },
-  {
-    id: 10,
-    title: "Robot",
-    description:
-      "This charming, retro-inspired robot was created in Blender using a combination of modeling, texturing, and lighting techniques. The focus was on creating a friendly and approachable character with a playful design. The pixelated display and the glowing battery add a nostalgic touch to the model. This robot could be used in various projects, from animated shorts to game environments, to add a touch of whimsy and technology",
-    image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727027331/robot_ngrcwu.png",
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034016/CLOCK_n9t3w0.png",
     category: "Objects",
   },
   {
     id: 4,
-    title: "Poison Bottle",
+    title: "Astronaut",
     description:
-      "This eerie potion bottle was crafted in Blender using a combination of modeling, texturing, and lighting techniques. The focus was on creating a mysterious and unsettling atmosphere with the skull-shaped base and the dark, bubbling liquid. The surrounding glass bottles and cork add to the overall sense of alchemy and experimentation. This model could be used in various projects, from horror games to fantasy films, to convey a sense of danger and intrigue.",
+      "This 3D model of an astronaut was created in Blender and showcases a playful, stylized design. The figure features a bright orange spacesuit with white gloves and boots, embodying a cartoonish aesthetic.",
     image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727027684/poison_bottle_hplsrm.png ",
-    category: "Objects",
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034030/ASTRO_qaonbw.png",
+    category: "Characters",
   },
   {
     id: 5,
-    title: "Factory Machine",
+    title: "Mustang",
     description:
-      "This sleek, futuristic machine was crafted in Blender using precise modeling and texturing techniques. The focus was on creating a clean, minimalist design with a hint of industrial aesthetic. The interplay of light and shadow, combined with the metallic finish, adds depth and realism to the model. This piece could be used in various projects, from sci-fi films to architectural visualizations, to convey a sense of advanced technology and innovation.",
+      "This low-poly 1965 Ford Mustang model was created in Blender. It features a minimalist design with clean lines and a simple material setup. The car is lit dramatically using a single point light. The camera angle highlights the classic profile and design elements. This project showcases proficiency in modeling, texturing, and lighting.",
     image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727027761/factory_ch0t87.png",
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034032/CAR_bx8lys.png",
     category: "Objects",
   },
   {
     id: 6,
-    title: "Car",
+    title: "Kitchen Interior",
     description:
-      "This 3D car model, designed in Blender, showcases a sleek, low-poly sports car with an angular, futuristic aesthetic. The reflective red surface enhances the car's sharp lines and dynamic form. The scene is illuminated with contrasting purple and white lighting, adding depth and drama to the composition. This model effectively demonstrates proficiency in creating hard-surface objects and stylized lighting setups, making it suitable for portfolio work in game design or concept visualization.",
+      "This minimalist kitchen scene is a low-poly creation modeled in Blender. The simple geometry and vibrant colors create a playful and inviting atmosphere. The scene features a compact kitchen layout with cabinets, a fridge, a sink, and a dining table. The use of a single point light casts dramatic shadows and highlights, enhancing the scene's depth and dimension. This project demonstrates proficiency in Blender's modeling, texturing, and lighting tools, resulting in a visually appealing and stylized representation of a small kitchen space.",
     image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727027817/car1_p2gzwd.png",
-    category: "Objects",
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034031/KITCHEN_INTERIOR_cfhmxt.png",
+    category: "Interiors",
   },
   {
     id: 7,
-    title: "Halloween",
+    title: "Mushroom",
     description:
-      "This whimsical, low-poly Halloween scene was crafted in Blender using a minimalist approach. The focus was on creating a spooky yet charming atmosphere through the use of simple shapes and vibrant colors. The haunted house, eerie trees, and glowing jack-o'-lanterns evoke the spirit of Halloween. This model could be used in various projects, from animated shorts to game backgrounds, to add a touch of festive spookiness",
+      "This playful scene features two stylized mushrooms, rendered in a vibrant neon color palette. The model's smooth curves and rounded shapes create a whimsical and inviting atmosphere. The mushrooms are surrounded by simple, stylized grass blades, adding depth and context to the scene. The use of a single point light casts dramatic shadows and highlights, emphasizing the mushrooms' form and texture. This project demonstrates proficiency in Blender's modeling, texturing, and lighting tools, resulting in a visually appealing and engaging piece.",
     image:
-      "https://res.cloudinary.com/dozqbvzx6/image/upload/v1727028675/halloween_uiwuuy.png",
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034040/MUSHROOM_iraeu9.png",
+    category: "Objects",
+  },
+  {
+    id: 8,
+    title: "Space Bottel",
+    description:
+      "This captivating scene features three glass bottles containing celestial bodies, reminiscent of a cosmic potion. The bottles are surrounded by simple spheres, adding depth and context to the composition. The intricate details of the celestial bodies within the bottles are beautifully rendered, creating a sense of wonder and mystery. The interplay of light and shadow adds a dramatic element to the scene, highlighting the bottles' form and texture. This project demonstrates proficiency in Blender's modeling, texturing, and lighting tools, resulting in a visually stunning and thought-provoking piece.",
+    image:
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034032/SPACEBOTTLE_w3fosi.png ",
+    category: "Objects",
+  },
+  {
+    id: 9,
+    title: "Turret",
+    description:
+      "This low-poly model of a Star Wars AT-AT turret is a stylized representation of the iconic Imperial weapon. The model features a minimalist design with clean lines and a simple material setup. The scene is lit using a single point light, creating dramatic shadows and highlights. The camera angle showcases the turret's distinctive profile and design elements. This project demonstrates proficiency in Blender's modeling, texturing, and lighting tools.",
+    image:
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034027/TURRET_ved3bh.png",
+    category: "Objects",
+  },
+  {
+    id: 10,
+    title: "WinterCup",
+    description:
+      "This festive hot chocolate scene is a playful creation modeled in Blender. The vibrant red mug with polka dots and the fluffy marshmallows create a cheerful atmosphere. A candy cane and sugar cubes add to the wintery theme. The scene is lit with a single point light, creating a cozy and inviting mood. This project demonstrates proficiency in Blender's modeling, texturing, and lighting tools, resulting in a visually appealing and festive piece.",
+    image:
+      "https://res.cloudinary.com/ds7rcf9wv/image/upload/v1727034037/WINTERCUP_jbhbji.png",
     category: "Interiors",
   },
 ];

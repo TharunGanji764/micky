@@ -17,16 +17,42 @@ const ProjectInfo = () => {
         alignItems: "center",
       }}
     >
-      <img
-        src={details.image}
-        alt="Project"
-        style={{
-          width: "650px",
-          height: "400px",
-          borderRadius: "30px",
-          marginBottom: "35px",
-        }}
-      />
+      {details.image.length === 2 ? (
+        <div className="d-flex">
+          <img
+            src={details.image[0]}
+            alt="Project"
+            style={{
+              width: "650px",
+              height: "400px",
+              borderRadius: "30px",
+              marginBottom: "35px",
+              marginRight: "25px",
+            }}
+          />
+          <img
+            src={details.image[1]}
+            alt="Project"
+            style={{
+              width: "650px",
+              height: "400px",
+              borderRadius: "30px",
+              marginBottom: "35px",
+            }}
+          />
+        </div>
+      ) : (
+        <img
+          src={details.image}
+          alt="Project"
+          style={{
+            width: "650px",
+            height: "400px",
+            borderRadius: "30px",
+            marginBottom: "35px",
+          }}
+        />
+      )}
       <p style={{ color: "#ffffff", textAlign: "center" }}>
         {details.description}
       </p>
